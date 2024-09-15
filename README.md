@@ -20,7 +20,7 @@
 Не можна використовувати Rigidbody для симуляції польоту, Physics.Simulate, Animator та сторонні ассети.
 
 
-<br>Завантажити гру можна [тут](https://github.com/FMaksym/Dreamland/raw/main/Assets/Build/DreamLand.rar).
+<br>Завантажити гру можна [тут](https://github.com/FMaksym/Flexus-Tech-Task/raw/main/Assets/Build/FlexusTask.apk).
 
 <h1 align="center">
    Відео результату
