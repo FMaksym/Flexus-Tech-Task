@@ -8,7 +8,7 @@ public class UIModel : MonoBehaviour
     public Slider shootPowerSlider; // Slider for adjusting the firing force
 
     [Inject, HideInInspector] public ShootController shootController; // Shooting controller, embeddable via Zenject
-    [Inject, HideInInspector] public BulletSpawner bulletSpawner; // Bullet spavener embedded via Zenject
+    [Inject, HideInInspector] public BulletSpawner bulletSpawner; // Bullet spawner embedded via Zenject
 
     public static event Action<float> OnFirePowerChanged; // Event that is called when changing the firing force
 
